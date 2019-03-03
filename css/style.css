@@ -1,0 +1,29 @@
+body{
+	background-color: #333;
+}
+.mf-lead{
+	padding-top: 10%;
+	height:800px;
+	
+	padding-bottom: 10%;
+}
+.mf-about{
+	margin-bottom:21px;
+}
+.lead-jumbo{
+	height: 235px;
+}
+
+.mf-web{
+	padding-top: 80px;
+	height:800px;
+	border-top: 1px solid #FFF;
+}
+
+.mf-web h3{
+	color:#FFF;
+}
+.web-jumbo{
+	height: 235px
+	width: 200px;
+}
