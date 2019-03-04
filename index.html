@@ -63,11 +63,11 @@
 			<div class="row">
 
 
-			<div class="col float-left">
-				<h3>This should be on the left</h3>
+			<div class="col-md-8 float-left d-none d-sm-block"> <!-- block that is shown on everything but phones -->
+				<h3>This will show on everything but phones</h3>
 			</div>
 				
-				<div class="col float-right">
+				<div class="col-md-4">
 					<div class="jumbotron">
 						<h2>
 							Web Development
@@ -76,6 +76,12 @@
 							Some content you might find strewn about the web
 						</p>
 					</div>
+				</div>
+
+
+
+				<div class="col d-block d-sm-none"> <!-- block that is shown only on phones-->
+				<h3>This will show on phones</h3>
 				</div>
 
 		</div>
