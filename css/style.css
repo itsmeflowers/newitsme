@@ -1,29 +1,51 @@
 body{
 	background-color: #333;
+	font-family: 'Noto Sans', sans-serif;
 }
+
 .mf-lead{
 	padding-top: 10%;
 	height:800px;
-	
 	padding-bottom: 10%;
 }
+
 .mf-about{
 	margin-bottom:21px;
 }
+
+.card-header{
+	font-family: 'Bitter', serif;
+}
+
 .lead-jumbo{
 	height: 235px;
 }
 
 .mf-web{
-	padding-top: 80px;
+	padding-top: 60px;
 	height:800px;
 	border-top: 1px solid #FFF;
 }
 
-.mf-web h3{
+.mf-web p,li,h3{
 	color:#FFF;
 }
+
+.mf-web h2{
+	display: block;
+	font-family: 'Bitter', serif;
+}
+
+.mf-hr{
+	color:#FFF;
+}
+
 .web-jumbo{
 	height: 235px
 	width: 200px;
+}
+
+.mf-r2{
+	padding-top: 20px;
+	padding-left: 30px;
 }
