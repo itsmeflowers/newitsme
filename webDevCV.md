@@ -30,9 +30,9 @@ Course Name | Link | Completed
  Build Websites from Scratch with HTML & CSS | https://www.udemy.com/build-website-scratch/ | 2014 
  Creating Responsive Web Design | https://www.udemy.com/creating-responsive-web-design/| 2015
 
-##Other Web Skills
+## Other Web Skills
 Skill | Link | Mastery | First Used 
- --- | --- | --- 
+ --- | --- | --- | ---
  Markdown | daringfireball.net | 80% | 2012 
  DokuWiki | dokuwiki.org | 70% | 2013 
  PhpMyAdmin | phpmyadmin.net | 50% | 2010 
@@ -40,9 +40,9 @@ Skill | Link | Mastery | First Used
  AngularJS | angular.io | 30% | 2014 
  Jekyll | jekyllrb.com | 20% | 2018 
 
-##Online Collaboration Platforms
+## Online Collaboration Platforms
 Skill | Link | Mastery | First Used 
- --- | --- | --- 
+ --- | --- | --- | ---
  Slack | slack.com | 100% | 2012
  Trello | trello.com | 100% | 2013
  Git/GitHub | github.com | 40% | 2009 
