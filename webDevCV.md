@@ -1,7 +1,5 @@
 # Michael Flowers- Web Dev CV
 
-*Let me know if there's something missing. Tweet me @preminimalist*
-
 ## Wordpress
 * Have setup and administrated with Wordpress since 2.5 (2008)
 	* Fluent in: 
